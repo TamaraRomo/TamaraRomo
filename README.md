@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy Tamara Rodriguez Romo</h1>
-<h3 align="center">Una estudiante en Ingeniería en tecnologías de software</h3>
+<h1 align="center">Hola 👋 soy Tamara Rodriguez Romo</h1>
+<h3 align="center">Egresada de Ingeniería en tecnologías de software</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/TamaraRomo](https://github.com/TamaraRomo)
 
 - 💬 Pregúntame sobre **Javascript, CSS, HTML, Python, Swift, Kotlin, Laravel**
 
-- 📫 Como contactarme **al066186@uacam.mx**
+- 📫 Como contactarme **tamararodriguezromo2@gmail.com**
 
 - ⚡ Sobre mi **Soy proactiva, empática, creativa, responsable, trabajo en equipo**
 
